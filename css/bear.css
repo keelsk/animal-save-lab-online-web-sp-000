@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 @media screen only and (min-width: 1260px) {
   #bear {
-    right 300 px; 
+    right: 300 px; 
   }
 }
 
